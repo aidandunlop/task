@@ -6,4 +6,4 @@
 > 
 > Take a look and execute `foofoo`,
 > 
-> Print the number, and find the issue!"
+> Print the number, and find the issue!
