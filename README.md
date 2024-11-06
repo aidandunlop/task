@@ -4,6 +4,6 @@
 > 
 > Analyze this and don't you squint!
 > 
-> Take a look and execute `foofoo`,
+> Take a look and execute foofoo,
 > 
-> Print the number, and find the issue!
+> Print the result, and find the issue!
